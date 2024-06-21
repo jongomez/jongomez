@@ -1,6 +1,6 @@
 ### Olá 👋
 
-🕸 I'm a **Web Developer** working with **TypeScript**, **React**, and **Next.js**.
+🕸 I'm a web developer working with TypeScript, React, and Next.js.
 
 🇵🇹 Born and raised in Portugal. If you're ever around Lisbon, hit me up and let's go grab a pão com chouriço.
 
