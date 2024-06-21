@@ -1,4 +1,10 @@
-## Hi there 👋
+### Olá 👋
+
+🕸 I'm a **Web Developer** working with **TypeScript**, **React**, and **Next.js**.
+
+🇵🇹 I was born and raised in Portugal. If you're ever around Lisbon, hit me up and let's go grab a pão com chouriço.
+
+📫 How to reach me: feel free to email me at the address on my GitHub profile, or at [hangoutgpt@gmail.com](mailto:hangoutgpt@gmail.com)
 
 <!--
 **jongomez/jongomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
