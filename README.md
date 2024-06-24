@@ -1,15 +1,13 @@
 ### Olá 👋
 
-🕸 I'm a web developer working with TypeScript, React, and Next.js.
+🕸 I'm a web developer from Portugal. If you're ever around Lisbon, hit me up and let's go grab a pão com chouriço.
 
-🇵🇹 Born and raised in Portugal. If you're ever around Lisbon, hit me up and let's go grab a pão com chouriço.
-
-📫 How to reach me: feel free to email me at the address on my GitHub profile, or at [hangoutgpt@gmail.com](mailto:hangoutgpt@gmail.com)
+📫 Feel free to email me at the address on my GitHub profile, or at [hangoutgpt@gmail.com](mailto:hangoutgpt@gmail.com)
 
 👨‍💻 Some of my projects include:
 - [llmpeople](https://github.com/jongomez/llmpeople) - Interact with a 3D avatar in the browser using the OpenAI API.
 - [ragdoll.js](https://github.com/jongomez/ragdoll.js) - 3D ragdolls in the browser.
-- [inception.js](https://github.com/jongomez/inception.js) - Display the current website within the website itself.
+- [inception.js](https://github.com/jongomez/inception.js) - Websites within websites.
 
 [Click here for more projects.](https://github.com/jongomez?tab=repositories)
 
